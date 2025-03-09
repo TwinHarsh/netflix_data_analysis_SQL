@@ -1,3 +1,3 @@
-# Data analysis of netfllix movies and Tv shows with the help of sql
+# Data analysis of netfllix movies and TV shows with the help of SQL
 
-![Netflix logo]()
+![Netflix logo](https://github.com/TwinHarsh/netflix_data_analysis_SQL/blob/main/logo.png)
