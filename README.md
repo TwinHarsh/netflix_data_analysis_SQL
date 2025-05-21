@@ -25,4 +25,4 @@ A machine learning enthusiast exploring real-world applications of AI and data s
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TwinHarsh/netflix_data_analysis_SQL/blob/main/License.txt) file for details.
