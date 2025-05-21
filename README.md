@@ -14,3 +14,15 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Dataset
 The data was taken from Kaggle:
 * [Dataset Link:](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
+
+
+##  Author
+
+**Harsh Nagar**  
+A machine learning enthusiast exploring real-world applications of AI and data science.
+
+---
+
+##  License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
